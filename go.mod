@@ -1,3 +1,3 @@
-module rhap_validator
+module github.com/bandungrhapsody/rhapvalidator
 
 go 1.15
